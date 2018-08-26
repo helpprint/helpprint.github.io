@@ -30,7 +30,9 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#559bd4"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -479,7 +481,7 @@
               "color": "#232323"
             },
             "B": {
-              "color": "#ff3366"
+              "color": "#559bd4"
             }
           },
           "_cid": "r06JxUHGP3",
